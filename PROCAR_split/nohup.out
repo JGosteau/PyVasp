@@ -1,0 +1,32 @@
+QApplication: invalid style override passed, ignoring it.
+[20751:20751:1126/163829.557150:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[20751:20751:1126/163829.694852:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[20751:20751:1126/163829.696589:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[20751:20751:1126/163829.697981:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[20751:20751:1127/111034.143679:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1127/111036.272020:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1127/180948.648554:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1127/180955.582357:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/093514.859178:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/093524.306716:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/094502.239231:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/094503.365254:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/095258.325659:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/095259.509496:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/111131.439835:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1128/111132.671537:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1129/111845.385851:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1129/111907.720953:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1203/111357.407203:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1203/111405.150289:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/111932.165759:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/111940.285790:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/112104.873027:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/112108.344362:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/112109.445010:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/143449.670271:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1204/143452.644994:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1205/100012.947152:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1205/100038.530196:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1205/111400.572285:ERROR:child_process_launcher.cc(522)] Failed to launch child process
+[20751:20751:1205/111403.801175:ERROR:child_process_launcher.cc(522)] Failed to launch child process
